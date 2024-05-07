@@ -13,7 +13,7 @@
   ##
  
 <div> 
-  <a href = "mailto:mariareceado@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%230077B5?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mariareceado@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%230077C8?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:mariamavungo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-mavungo-receado-b0674034" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
