@@ -1,4 +1,3 @@
-## Olá, Me chamo Maria Mavungo Receado
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-SQLite" height="30" width="40" src="https://th.bing.com/th/id/OIP.alhHp6CHoJWy7FPj3Z1nkAAAAA?rs=1&pid=ImgDetMain">
